@@ -1,5 +1,5 @@
 import java.util.Scanner;
-// ishara.w@sliit.lk
+
 class Student{
 	private int subject1;
 	private int subject2;
